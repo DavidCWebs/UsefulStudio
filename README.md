@@ -1,12 +1,8 @@
-#Fork of the [Roots](http://roots.io/) starter theme.
+#Custom WordPress theme for Useful Studio.
 
-This is a WordPress starter theme based on [HTML5 Boilerplate](http://html5boilerplate.com/) & [Bootstrap](http://getbootstrap.com/) that will help you make better themes.
+This is a work in progress by [David Egan](http://carawebs.com/).
 
-* Source: [https://github.com/roots/roots](https://github.com/roots/roots)
-* Home Page: [http://roots.io/](http://roots.io/)
-* Twitter: [@retlehs](https://twitter.com/retlehs)
-* Newsletter: [Subscribe](http://roots.io/subscribe/)
-* Forum: [http://discourse.roots.io/](http://discourse.roots.io/)
+Based on the [Roots](https://github.com/roots/roots) starter theme.
 
 ## Installation
 
