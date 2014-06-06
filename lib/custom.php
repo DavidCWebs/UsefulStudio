@@ -216,7 +216,7 @@ add_filter('pre_get_posts', 'limit_posts_per_archive_page');
 
 Menu adjustment for CPTs - stops "Blog" page being highlighed by means of active class
 
-===============================================================*/
+===============================================================
 
 add_filter( 'nav_menu_css_class', 'carawebs_menu_classes', 10, 2 );
 
@@ -240,4 +240,4 @@ function carawebs_menu_classes( $classes , $item ){
 	}
 	return $classes;
 }
-
+*/
