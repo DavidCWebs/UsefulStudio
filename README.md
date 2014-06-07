@@ -2,6 +2,9 @@
 
 This is a work in progress by [David Egan](http://carawebs.com/).
 
+###Note re: Bootstrap CSS
+Unecessary CSS modules have been commented out from /assets/less/bootstrap/bootstrap.less
+
 Based on the [Roots](https://github.com/roots/roots) starter theme.
 
 ## Installation
